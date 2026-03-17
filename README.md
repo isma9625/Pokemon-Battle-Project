@@ -2,7 +2,7 @@ Card Battle Web Application
 
 Web application inspired by a Pokémon-style card collection and battle system, developed as a fullstack project using Angular and Laravel.
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
 Frontend: Angular, HTML, CSS, Bootstrap, TypeScript
 
@@ -12,7 +12,7 @@ Database: MySQL
 
 Architecture: REST API (client-server)
 
-🧠 Features
+## 🧠 Features
 
 User authentication (registration and login)
 
@@ -26,7 +26,7 @@ Data persistence using a relational database
 
 Communication between frontend and backend via API
 
-🏗️ Architecture
+## 🏗️ Architecture
 
 The application follows a client-server architecture:
 
@@ -37,6 +37,8 @@ The Laravel backend exposes a REST API and manages business logic
 MySQL is responsible for data storage and persistence
 
 📸 Screenshots
+
+
 Login:
 
 <img width="482" height="211" alt="image" src="https://github.com/user-attachments/assets/5c96c13c-a69a-4aa9-b8c3-974bad75ecbe" />
@@ -65,7 +67,7 @@ Decks:
 
 <img width="903" height="427" alt="image" src="https://github.com/user-attachments/assets/e1ac122e-44cd-41b4-98b3-f6cd281fd35d" />
 
-⚙️ Installation
+## ⚙️ Installation
 Backend (Laravel)
 cd PokemonBattleBack
 composer install
@@ -77,11 +79,11 @@ Frontend (Angular)
 cd PokemonBattle
 npm install
 ng serve
-📌 Project Status
+## 📌 Project Status
 
 Completed as a fullstack development practice project.
 
-💡 Future Improvements
+## 💡 Future Improvements
 
 Improve UI/UX design
 
