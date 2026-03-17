@@ -1,4 +1,4 @@
-Card Battle Web Application
+### Card Battle Web Application
 
 Web application inspired by a Pokémon-style card collection and battle system, developed as a fullstack project using Angular and Laravel.
 
